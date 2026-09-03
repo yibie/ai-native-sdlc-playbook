@@ -16,6 +16,7 @@ Anthropic Claude Academy 官方课程《The AI-Native SDLC Playbook》的整理�
 ## 下载
 
 - **中文版 EPUB**：[ai-native-sdlc-playbook-zh.epub](ai-native-sdlc-playbook-zh.epub)（人话翻译版，可在任意阅读器打开）
+- **中文版 PDF**：[ai-native-sdlc-playbook-zh.pdf](ai-native-sdlc-playbook-zh.pdf)（适合打印/桌面阅读）
 - **中文版 Markdown**：[zh-book.md](zh-book.md)
 - **英文版 EPUB**：[ai-native-sdlc-playbook.epub](ai-native-sdlc-playbook.epub)（原版整理）
 - **英文版 Markdown**：[book.md](book.md)
