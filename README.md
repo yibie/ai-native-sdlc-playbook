@@ -15,14 +15,16 @@ Anthropic Claude Academy 官方课程《The AI-Native SDLC Playbook》的整理�
 
 ## 下载
 
-- **EPUB 版**：[ai-native-sdlc-playbook.epub](ai-native-sdlc-playbook.epub)（可在 Apple Books / Kindle / 任意阅读器打开）
-- **Markdown 原稿**：[book.md](book.md)（便于阅读/编辑/再次转换）
+- **中文版 EPUB**：[ai-native-sdlc-playbook-zh.epub](ai-native-sdlc-playbook-zh.epub)（人话翻译版，可在任意阅读器打开）
+- **中文版 Markdown**：[zh-book.md](zh-book.md)
+- **英文版 EPUB**：[ai-native-sdlc-playbook.epub](ai-native-sdlc-playbook.epub)（原版整理）
+- **英文版 Markdown**：[book.md](book.md)
 
 ## 内容说明
 
 - 这是对 Anthropic 官方课程页面的**忠实内容整理**，未做改写
 - 含课程全部 14 课（Introduction + 6 个阶段 + Closing）
-- 原文语言：英文（本册为英文原版整理）
+- **中文版为人话翻译**：忠实原意、自然中文表达，核心术语保留英文（CLAUDE.md、intent.md、hooks、evals、subagents 等）
 
 ## 原课程
 
